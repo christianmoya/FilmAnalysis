@@ -13,6 +13,12 @@ Given the plethora of film studios and streaming services, our team analysed rec
 4. IMDb - the world's most popular and authoriative source for movie, TV and celebrity content
 5. Box Office Mojo - website that tracks box office revenue 
 
+#### Data Limitation
+
+
+
+
+
 ### Methodology 
 In our research for this project, we focused on what it could mean for Microsoft to start a film studio that values "Diversity and Inclusion." We gathered data on international films, top-grossing actors, and films tagged with key words that could highlight marginalized stories, to analyze its financial and reputational rewards.
 
