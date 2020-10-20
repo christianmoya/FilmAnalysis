@@ -4,7 +4,7 @@ Contributing Members: Anastasia Ulianova, Christian Moya, Dylan Garsee & Sierra 
 <img src='https://1.bp.blogspot.com/-LCNdmydj22w/XWBIIYwtbxI/AAAAAAAA09M/IvNxqGxSMKw5vC2YV2zg6tpAM-oB0TNWwCLcBGAs/s1600/00000000mm.png'>
 
 ### Project Overview
-Given the plethora of film studios and streaming services, our team analysed recent trends to discover ways to allow for Microsoft to stand out amongst its competitors when first entering the film industry. We used Microsoft's values to guide our investigation, honing in on the company's focus on Diversity and Inclusion and its "transformative power of engaging many different perspectives". We analyzed the awards and financial successes of international films, the diversity of the top-grossing actors over the last decade, and the return of investment for marginalized stories.  
+Given the plethora of film studios and streaming services, our team analysed recent trends to discover ways for Microsoft to stand out amongst its competitors when first entering the film industry. We used Microsoft's values to guide our investigation, honing in on the company's focus on Diversity and Inclusion and its "transformative power of engaging many different perspectives". We analyzed the awards and financial successes of international films, the diversity of the top-grossing actors worldwide over the last decade, and the return of investment for marginalized stories.  
 
 ### Data 
 1. The Numbers - detailed database where film and numbers meet 
