@@ -13,11 +13,10 @@ Given the plethora of film studios and streaming services, our team analysed rec
 4. IMDb - the world's most popular and authoriative source for movie, TV and celebrity content
 5. Box Office Mojo - website that tracks box office revenue 
 
-#### Data Limitation
-
-
-
-
+### Data Limitations
+- <b>Racial Categories</b> 
+<br>The Census Bureau limits race to 5 categories: White, Black, Asian, Hawaiian Native/ Pacific Islander and Native American/ Alaskan Native, with Native American/ Alaskan Native defined as people originating from North, Central and South America. According to the Bureau, Hispanic and Latino is considered an ethnicity, not a race. For that reason, Hispanic and Latino is not included as a racial category. If given more time, we would look into representation for Hispanic and Latinos in Hollywood.  
+<br>Actors were categorized by key words contained in their "ethnicity" string. In some cases, an actor had an ounce of African blood, which led to the actor being categorized as Black. Because this does not reflect the representation needed in Hollywood and significantly skewed the data for POC, we updated the database with more accurate information.  
 
 ### Methodology 
 In our research for this project, we focused on what it could mean for Microsoft to start a film studio that values "Diversity and Inclusion." We gathered data on international films, top-grossing actors, and films tagged with key words that could highlight marginalized stories, to analyze its financial and reputational rewards.
@@ -29,9 +28,9 @@ In our research for this project, we focused on what it could mean for Microsoft
 
 <b>Diversity in Top-Grossing Films</b>
 <br><i>Found in TopGrossingFilms_Diversity.ipynb</i>
-<br><br>In previous years, film studios recieved criticism regarding the lack of diversity of its cast. Movements like #OscarsSoWhite in 2015 and #whitewashedOUT in 2016 demanded for more representation in Hollywood. This notebook seeks to find whether the Box Office has responded to those demands by analyzing the 100 top grossing actors for 2010-2020. Does the world want to watch more films featuring people of color? If so, what roles are they casted for- do they play the lead star or the supportive best friend with 20 minutes of screen time? 
+<br><br>In previous years, film studios recieved criticism regarding the lack of diversity of its cast. Movements like #OscarsSoWhite in 2015 and #whitewashedOUT in 2016 demanded for more representation in Hollywood. This notebook seeks to find whether the Box Office has responded to those demands by analyzing the 100 top grossing actors for 2010-2020. Do audience members demand to watch more films featuring people of color? If so, what roles are they casted for- do they play the lead role or the supportive best friend with just 20 minutes of screen time? 
 
-To answer this, we found data from the-numbers.com, which provided the 100 top grossing actors for each year, along with their star score and average billing. A star score is given to actors based on the number of top-grossing films they are featured in, while the average billing signifies their ranking of importance in a film. For each actor on that list, we found their ethnicity by scraping data through ethnicelebs.com, then categorized their ethnicity into racial categories defined by the Census Bureau. We found that star scores have gone up by 98, 63.5, and 377.5 points for Black, Native American/Alaskan Native and Native Hawaiian/ Pacific Islander actors consecutively, meaning more top grossing films feature people of color! 
+To answer this, we found data from the-numbers.com, which provided the 100 top grossing actors for each year, along with their star score and billing average. A star score is given to actors based on the number of top-grossing films they are featured in, while the average billing signifies their ranking of importance in a film. For each actor on the Top 100 list, we found their ethnicity by scraping data through ethnicelebs.com, then categorized their ethnicity into racial categories defined by the Census Bureau. With that data, we looked at how star scores have changed for each racial category over time. We found that star scores have gone up by 98, 63.5, and 377.5 points for Black, Native American/Alaskan Native and Native Hawaiian/ Pacific Islander actors consecutively, meaning more top grossing films feature people of color! 
 <br>
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/starscore_average.png?raw=true)
 
