@@ -21,13 +21,16 @@ In our research for this project, we focused on what it could mean for Microsoft
 
 <b>Awards for International Films</b> ... 
 
-<b>Diversity in Top-Grossing Films</b>... 
-<br>We looked into star scores, a score given to actors based on the number of top-grossing films they are featured in, for actors in the Top 100 Grossing Actors over the last 10 years. For each actor on that list, we found their ethnicity through ethnicelebs, then categorized their ethnicity into racial categories based on the definitions of the Census Bureau. We were curious to see if the Box Office's top grossing films featured more people of color. What we found was that star scores have gone up significantly for Black, Native American/Alaskan Native and Native Hawaiian/ Pacific Islander actors, meaning more top grossing films feature people of color. 
+<b>Diversity in Top-Grossing Films</b>
+<br><i>Found in TopGrossingFilms_Diversity.ipynb</i>
+<br>In previous years, film studios recieved criticism regarding the lack of diversity of its cast. Movements like #OscarsSoWhite in 2015 and #whitewashedOUT in 2016 demanded for more representation in Hollywood. This notebook seeks to find whether the Box Office has responded to those demands by analyzing the 100 top grossing actors for 2010-2020. Does the world want to watch more films featuring people of color? If so, what roles are they casted for- lead roles or the best friend? 
+
+To answer this, we found data from the-numbers.com, which provided the 100 top grossing actors for each year, along with their star score and average billing. A star score is given to actors based on the number of top-grossing films they are featured in, while the average billing signifies their ranking of importance in a film. For each actor on that list, we found their ethnicity by scraping data through ethnicelebs.com, then categorized their ethnicity into racial categories defined by the Census Bureau. We found that star scores have gone up by 98, 63.5, and 377.5 points for Black, Native American/Alaskan Native and Native Hawaiian/ Pacific Islander actors consecutively, meaning more top grossing films feature people of color! 
 <br>
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/average_billing.png?raw=true)
 
 
-We also find that although there are more people of color in the Top Grossing actors list, they have a higher billing average, which means that they have less important roles in those films. 
+We also find that although there are more people of color in the Top Grossing actors list, they have a higher billing average, which means they play less important roles in those films. In 2010, there were only 9 actors of color in the top 100, then in 2020, that number increased to 34 actors of color. However, average billing has gone down significantly, especially for Native American/Aslaskan Native actors. Native American/Alaskan Native actors had an average billing of 3.6 in 2010, but 10 years later, went by 21.4 to an average billing of 24. 
 <br>
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/racial_count.png?raw=true)
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/starscore_average.png?raw=true)
