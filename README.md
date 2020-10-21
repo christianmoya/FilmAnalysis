@@ -27,11 +27,12 @@ In our research for this project, we focused on what it could mean for Microsoft
 <b>Awards for International Films</b> 
 <br><i>Found in critical_acclaim_pt2.ipynb</i>
 <br><br>At the end of the day movies are art, and great art stands the test of time. Two metrics to determine the cultural legacy of films are film critics and the Academy Awards. Film critics are independent voices knowledgeable on the art of film, while the voting body of the Academy Awards are made up of people who work in the film industry of the United States. The data presented from the film critics is a compiled list of nearly 12,000 lists of the greatest films of all time. While the USA had the most films from an individual country on the list, combined there were a greater number of films from non-USA countries. The Top 4 countries whose films appear on the list are France, The UK, Japan, and Italy, which are also 3 of the 4 largest international markets as per my colleague Anastasia's data. 
-![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/1000_greatest_films.png?raw=true)
-![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/top_4_countries.png.png?raw=true)
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/1000_greatest_films.png?raw=true)
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/top_4_countries.png?raw=true)
 
 
 While critical acclaim is great, recognition from the film industry itself is the highest honor a film can receive. The Academy Awards recognizes the year in film and is voted on by the American film industry. While there is a designated Best International Film category, more non-USA films have been showing up in the main category Best Picture. In fact of the 11 international films nominated for Best Picture over the 91 years, 7 of those nominees have been in the past 20 years, with Parasite, a South Korean film, actually winning the 2020 award. 
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/international_best_picture.png?raw=true)
 <br>
   
 
