@@ -12,17 +12,37 @@ Given the plethora of film studios and streaming services, our team analysed rec
 3. They Shoot Pictures, Don't They? - growing film resource dedicated to the art of motion picture filmmaking 
 4. IMDb - the world's most popular and authoriative source for movie, TV and celebrity content
 5. Box Office Mojo - website that tracks box office revenue 
+6. Wikipedia Streaming Service Providers
 
 ### Data Limitations
+- <b> Lack of data on the geographic breakdown of streaming subscriptions </b>
 - <b>Racial Categories</b> 
 <br>The Census Bureau limits race to 5 categories: White, Black, Asian, Hawaiian Native/ Pacific Islander and Native American/ Alaskan Native, with Native American/ Alaskan Native defined as people originating from North, Central and South America. According to the Bureau, Hispanic and Latino is considered an ethnicity, not a race. For that reason, Hispanic and Latino is not included as a racial category. If given more time, we would look into representation for Hispanic and Latinos in Hollywood.  
 <br>Actors were categorized by key words contained in their "ethnicity" string. In some cases, an actor had an ounce of African blood, which led to the actor being categorized as Black. Because this does not reflect the representation needed in Hollywood and significantly skewed the data for POC, we updated the database with more accurate information.  
 
 ### Methodology 
-In our research for this project, we focused on what it could mean for Microsoft to start a film studio that values "Diversity and Inclusion." We gathered data on international films, top-grossing actors, and films tagged with key words that could highlight marginalized stories, to analyze its financial and reputational rewards.
+In our research for this project, we focused on what it could mean for Microsoft to start a film studio that values "Diversity and Inclusion." We gathered data on international films, potential competitiors, top-grossing actors, and films tagged with key words that could highlight marginalized stories, to analyze its financial and reputational rewards.
 
 ### Results 
-<b>Box Office for International Films</b> ... 
+<b>The Financial Aspect</b>
+<br><i>Found in Part 1 - Target Market and Financial Opportunity.ipynb</i>
+
+##### Where should Microsoft target its movie production efforts? 
+<br><br>As an multinational company with wide gobal influence, Microsoft has the leverage to grow a successful movie content creation business line on a global scale. In terms of of revenue and growth however, its starting point may not necessarily be most productive if it were to focus its efforts domestically in the United States. 
+The data in this section attempts to narrow down a target market for Microsoft as a starting point to launch their new movie studio. 
+We look at box office data as a marker of market size, of the growth of the industry and audiences within a selection of 20 countries.
+
+Our findings suggest that although the United States has the largest and most developed film industry, its growth rate since 2000 is amongst the lowest in the studied countries. Instead, countries like China, India and Brazil have shown impressive growth over the past 20 years.
+
+
+
+
+Furthermore, with subscription streaming becoming an increasingly important model to generate revenue in this industry, we take a preliminary look at the geographic spread of the present service providers in this regard, as they would be Microsoft's direct competitors in the distribution of its content. 
+We find that the United States has the most competitors which is to Microsoft's disadvantage considering the low likelihood of acquiring licensing for non-Microsoft produced video content combined with the present lack of a deep selection of existing original content. 
+
+
+These findings suggest that Microsoft has the opportunity to brand itself as an international film supporter, gathering significant market share of the international film industry while generating positive and growing revenue.
+
 
 <b>Awards for International Films</b> 
 <br><i>Found in critical_acclaim_pt2.ipynb</i>
@@ -52,11 +72,13 @@ We also find that although there are more actors of color in the Top Grossing ac
 
 
 
-### Recommendation 
+### Conclusions
+<br> Microsoft should target international markets, where the industry growth rate is faster and comeptition is lower to capture the greatest revenue generating potential while creating a dominant brand name. Leveraging its global influence, Microsoft would capture rapidly growing audiences and revenues in these regions while branding itself as a supporter of international films. 
+
 <br> Microsoft should focus on films from countries that garner cricial acclaim and participate heavily in awards campaigning in order to include their films in the greater history of film itself. 
 
-<br> Microsoft can take the lead in creating films that not only feature people of color, but cast them in lead roles. Microsoft's values share the "transformative power of engaging many different perspectives," and showcasing the stories of people of color is one great way to do that. 
-
-### Conclusion 
+<br> Microsoft can take the lead in creating films that not only feature people of color, but cast them in lead roles. Microsoft's values share the "transformative power of engaging many different perspectives," and showcasing the stories of people of color is one great way to do that.  
 
 ### Future Work 
+
+Future analysis could include a deeper look into a successful distribution model and market for Microsoft's Movie studio, for a more targeted growth strategy for the company.
