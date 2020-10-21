@@ -1,5 +1,5 @@
 # Film Analysis for Microsoft Film Studio 
-Contributing Members: Anastasia Ulianova, Christian Moya, Dylan Garsee & Sierra Stanton
+Contributing Members: Anastasia Ulianova, Christian Moya, & Dylan Garsee
 
 <img src='https://1.bp.blogspot.com/-LCNdmydj22w/XWBIIYwtbxI/AAAAAAAA09M/IvNxqGxSMKw5vC2YV2zg6tpAM-oB0TNWwCLcBGAs/s1600/00000000mm.png'>
 
@@ -24,7 +24,14 @@ In our research for this project, we focused on what it could mean for Microsoft
 ### Results 
 <b>Box Office for International Films</b> ... 
 
-<b>Awards for International Films</b> ... 
+<b>Awards for International Films</b> 
+<br><i>Found in critical_acclaim_pt2.ipynb</i>
+<br><br>At the end of the day movies are art, and great art stands the test of time. Two metrics to determine the cultural legacy of films are film critics and the Academy Awards. Film critics are independent voices knowledgeable on the art of film, while the voting body of the Academy Awards are made up of people who work in the film industry of the United States. The data presented from the film critics is a compiled list of nearly 12,000 lists of the greatest films of all time. While the USA had the most films from an individual country on the list, combined there were a greater number of films from non-USA countries. The Top 4 countries whose films appear on the list are France, The UK, Japan, and Italy, which are also 3 of the 4 largest international markets as per my colleague Anastasia's data. 
+
+
+While critical acclaim is great, recognition from the film industry itself is the highest honor a film can receive. The Academy Awards recognizes the year in film and is voted on by the American film industry. While there is a designated Best International Film category, more non-USA films have been showing up in the main category Best Picture. In fact of the 11 international films nominated for Best Picture over the 91 years, 7 of those nominees have been in the past 20 years, with Parasite, a South Korean film, actually winning the 2020 award. 
+<br>
+  
 
 <b>Diversity in Top-Grossing Films</b>
 <br><i>Found in TopGrossingFilms_Diversity.ipynb</i>
@@ -41,9 +48,10 @@ We also find that although there are more actors of color in the Top Grossing ac
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/average_billing.png?raw=true)
 
 
-<b>Return of Investment for Marginalized Stories</b> ... 
 
 ### Recommendation 
+<br> Microsoft should focus on films from countries that garner cricial acclaim and participate heavily in awards campaigning in order to include their films in the greater history of film itself. 
+
 <br> Microsoft can take the lead in creating films that not only feature people of color, but cast them in lead roles. Microsoft's values share the "transformative power of engaging many different perspectives," and showcasing the stories of people of color is one great way to do that. 
 
 ### Conclusion 
