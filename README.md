@@ -47,7 +47,7 @@ To answer this, we found data from the-numbers.com, which provided the 100 top g
 We also find that although there are more actors of color in the Top Grossing actors list, actors of color carry a higher billing average, which means they play less important roles in those films. In 2010, there were only 9 actors of color in the top 100, then in 2020, that number increased to 34 actors of color. However, average billing has gone down significantly, especially for Native American/Aslaskan Native actors. Native American/Alaskan Native actors had an average billing of 3.6 in 2010, but 10 years later, went by 21.4 to an average billing of 24. 
 <br>
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/racial_count.png?raw=true) 
-![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/average_billing.png?raw=true)
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/top_4_countries.png?raw=true)
 
 
 
