@@ -12,7 +12,7 @@ Given the plethora of film studios and streaming services, our team analysed rec
 3. They Shoot Pictures, Don't They? - growing film resource dedicated to the art of motion picture filmmaking 
 4. IMDb - the world's most popular and authoriative source for movie, TV and celebrity content
 5. Box Office Mojo - website that tracks box office revenue 
-6. Wikipedia Streaming Service Providers
+6. Wikipedia Streaming Service Providers/Acadamy Award Best Picture Nominees
 
 ### Data Limitations
 - <b> Lack of data on the geographic breakdown of streaming subscriptions </b>
