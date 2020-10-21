@@ -42,13 +42,13 @@ While critical acclaim is great, recognition from the film industry itself is th
 
 To answer this, we found data from the-numbers.com, which provided the 100 top grossing actors for each year, along with their star score and billing average. A star score is given to actors based on the number of top-grossing films they are featured in, while the average billing signifies their ranking of importance in a film. For each actor on the Top 100 list, we found their ethnicity by scraping data through ethnicelebs.com, then categorized their ethnicity into racial categories defined by the Census Bureau. With that data, we looked at how star scores have changed for each racial category over time. We found that star scores have gone up by 98, 63.5, and 377.5 points for Black, Native American/Alaskan Native and Native Hawaiian/ Pacific Islander actors consecutively, meaning more top grossing films feature people of color! 
 <br>
-![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/starscore_average.png?raw=true)
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/starscore_POC.png?raw=true)
 
 
 We also find that although there are more actors of color in the Top Grossing actors list, actors of color carry a higher billing average, which means they play less important roles in those films. In 2010, there were only 9 actors of color in the top 100, then in 2020, that number increased to 34 actors of color. However, average billing has gone down significantly, especially for Native American/Aslaskan Native actors. Native American/Alaskan Native actors had an average billing of 3.6 in 2010, but 10 years later, went by 21.4 to an average billing of 24. 
 <br>
-![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/racial_count.png?raw=true) 
-![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/top_4_countries.png?raw=true)
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/racial_count.png?raw=true) 
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/average_billing.png?raw=true)
 
 
 
