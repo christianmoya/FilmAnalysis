@@ -87,4 +87,4 @@ We also find that although there are more actors of color in the Top Grossing ac
 
 ### Future Work 
 
-Future analysis could include a deeper look into a successful distribution model and market for Microsoft's Movie studio, for a more targeted growth strategy for the company.
+Future analysis could include a deeper look into a successful distribution model and market for Microsoft's Movie studio, for a more targeted growth strategy for the company. As far as diversity, we could look into the diversity of the most popular TV shows as well. 
