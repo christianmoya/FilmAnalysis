@@ -32,19 +32,23 @@ In our research for this project, we focused on what it could mean for Microsoft
 The data in this section attempts to narrow down a target market for Microsoft as a starting point to launch their new movie studio. 
 We look at box office data as a marker of market size, of the growth of the industry and audiences within a selection of 20 countries.
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/all_countries_growth.png)
+<br>
+Zooming in on the remaining countries, other that the United States and China:
+<br>
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/global_box_minus_usa_china.png)
 
 Our findings suggest that although the United States has the largest and most developed film industry, its growth rate since 2000 is amongst the lowest in the studied countries. Instead, countries like China, India and Brazil have shown impressive growth over the past 20 years, as seen in the chart below:
+<br>
+
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/box_office_growth.png)
-
-
 <br>
 Furthermore, with subscription streaming becoming an increasingly important model to generate revenue in this industry, we take a preliminary look at the geographic spread of the present service providers in this regard, as they would be Microsoft's direct competitors in the distribution of its content. 
 We find that the United States has the most competitors which is to Microsoft's disadvantage considering the low likelihood of acquiring licensing for non-Microsoft produced video content combined with the present lack of a deep selection of existing original content. 
+<br>
 ![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/competition_map.PNG)
-
+<br>
 These findings suggest that Microsoft has the opportunity to brand itself as an international film supporter, gathering significant market share of the international film industry while generating positive and growing revenue.
-
+<br>
 
 <b>Awards for International Films</b> 
 <br><i>Found in critical_acclaim_pt2.ipynb</i>
