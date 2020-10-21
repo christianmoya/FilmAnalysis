@@ -28,7 +28,7 @@ In our research for this project, we focused on what it could mean for Microsoft
 <br><i>Found in Part 1 - Target Market and Financial Opportunity.ipynb</i>
 
 ##### Where should Microsoft target its movie production efforts? 
-<br><br>As an multinational company with wide gobal influence, Microsoft has the leverage to grow a successful movie content creation business line on a global scale. In terms of of revenue and growth however, its starting point may not necessarily be most productive if it were to focus its efforts domestically in the United States. 
+<br>As an multinational company with wide gobal influence, Microsoft has the leverage to grow a successful movie content creation business line on a global scale. In terms of of revenue and growth however, its starting point may not necessarily be most productive if it were to focus its efforts domestically in the United States. 
 The data in this section attempts to narrow down a target market for Microsoft as a starting point to launch their new movie studio. 
 We look at box office data as a marker of market size, of the growth of the industry and audiences within a selection of 20 countries.
 
@@ -39,7 +39,7 @@ Our findings suggest that although the United States has the largest and most de
 
 Furthermore, with subscription streaming becoming an increasingly important model to generate revenue in this industry, we take a preliminary look at the geographic spread of the present service providers in this regard, as they would be Microsoft's direct competitors in the distribution of its content. 
 We find that the United States has the most competitors which is to Microsoft's disadvantage considering the low likelihood of acquiring licensing for non-Microsoft produced video content combined with the present lack of a deep selection of existing original content. 
-
+![alt text](https://github.com/christianmoya/Phase1_Project/blob/main/project_images/competition_map.PNG)
 
 These findings suggest that Microsoft has the opportunity to brand itself as an international film supporter, gathering significant market share of the international film industry while generating positive and growing revenue.
 
